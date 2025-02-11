@@ -49,3 +49,13 @@ run:
 `npm install`
 
 `npm run dev`
+
+## Web
+
+<img width="1920" alt="Screenshot 2025-02-11 at 9 02 42 PM" src="https://github.com/user-attachments/assets/b9b3cc41-ee2b-4e74-b9b2-4aa0a088b498" />
+
+<img width="1920" alt="Screenshot 2025-02-11 at 9 03 53 PM" src="https://github.com/user-attachments/assets/c95fdfd1-f93e-4fa2-a278-9f9eccdad85b" />
+
+<img width="1920" alt="Screenshot 2025-02-11 at 9 04 11 PM" src="https://github.com/user-attachments/assets/b90afb04-8807-403b-a292-ac9a48aaba7b" />
+
+<img width="1920" alt="Screenshot 2025-02-11 at 9 04 59 PM" src="https://github.com/user-attachments/assets/94b47d71-f321-4c92-93e2-304d3b9e4086" />
